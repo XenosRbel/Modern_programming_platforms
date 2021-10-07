@@ -56,7 +56,11 @@ public class ProductAPI {
             ResponseEntity.badRequest().build();
         }
 
-        productService.deleteById(id);
+        Runnable task = () -> {
+            productService.deleteById(id);
+        };
+        Thread thread = new Thread(task);
+        thread.start();
 
         return ResponseEntity.ok().build();
     }
