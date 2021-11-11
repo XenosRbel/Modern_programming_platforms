@@ -1,0 +1,6 @@
+[submodule "Часть 2/Лабораторные/Часть"]
+	path = Часть 2/Лабораторные/Часть
+	url = git@github.com:mazahaler/java-course.git
+[submodule "Часть"]
+	path = Часть
+	url = git@github.com:mazahaler/java-course.git
