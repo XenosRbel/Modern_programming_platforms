@@ -1,0 +1,7 @@
+<struts-config>
+    <!-- Spring Struts plugin -->
+    <plug-in className="org.springframework.web.struts.ContextLoaderPlugIn">
+        <set-property property="contextConfigLocation"
+                      value="/WEB-INF/classes/SpringBeans.xml" />
+    </plug-in>
+</struts-config>

@@ -1,0 +1,41 @@
+{
+  "DeleteProject": {
+    "description": "Auto imported from components/DeleteProject.vue"
+  },
+  "Form": {
+    "description": "Auto imported from components/Form.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Project": {
+    "description": "Auto imported from components/Project.vue"
+  },
+  "ProjectForm": {
+    "description": "Auto imported from components/ProjectForm.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/Projects.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/Register.vue"
+  },
+  "SelectDatesPdfDialog": {
+    "description": "Auto imported from components/SelectDatesPdfDialog.vue"
+  },
+  "Table": {
+    "description": "Auto imported from components/Table.vue"
+  },
+  "Task": {
+    "description": "Auto imported from components/Task.vue"
+  },
+  "TaskForm": {
+    "description": "Auto imported from components/TaskForm.vue"
+  },
+  "TaskList": {
+    "description": "Auto imported from components/TaskList.vue"
+  },
+  "WorkLogDialog": {
+    "description": "Auto imported from components/WorkLogDialog.vue"
+  }
+}

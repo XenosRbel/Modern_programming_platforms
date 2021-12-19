@@ -1,0 +1,30 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\delld\\\\Develop\\\\Repos\\\\Modern_programming_platforms\\\\Часть 2\\\\Курсовой\\\\Проект\\\\front\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_06b3a4ea"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\delld\\\\Develop\\\\Repos\\\\Modern_programming_platforms\\\\Часть 2\\\\Курсовой\\\\Проект\\\\front\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_1d70c63f"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\delld\\\\Develop\\\\Repos\\\\Modern_programming_platforms\\\\Часть 2\\\\Курсовой\\\\Проект\\\\front\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_76019386"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\delld\\\\Develop\\\\Repos\\\\Modern_programming_platforms\\\\Часть 2\\\\Курсовой\\\\Проект\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_53c92328"
+  }
+]
